@@ -1,0 +1,1 @@
+El flujo basico con Git consiste en:
